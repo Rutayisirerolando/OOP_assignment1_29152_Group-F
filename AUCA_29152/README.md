@@ -1,10 +1,10 @@
-# AUCA_ID – School Management System (console, Java OOP)
+# AUCA_29152 – School Management System (console, Java OOP)
 
 ## Run it
 
 Requires JDK 17 or newer.
 
-**Terminal (from inside the `AUCA_ID` folder):**
+**Terminal (from inside the `AUCA_29152` folder):**
 
 ```bash
 # Windows (PowerShell)
